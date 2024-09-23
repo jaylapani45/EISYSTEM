@@ -23,7 +23,7 @@ This project demonstrates various design patterns in Java, including behavioral,
 
 1. Clone this repository.
    ```bash
-   git clone <your-repo>
+   git clone https://github.com/jaylapani45/EISYSTEM.git
 
 2. Navigate to the design pattern folder.
     cd /Exersice1-Design_Pattern/src

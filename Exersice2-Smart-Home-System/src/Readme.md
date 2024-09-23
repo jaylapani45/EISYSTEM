@@ -27,7 +27,7 @@ The Smart Home System project is a simulation that allows users to control vario
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jaylapani45/EISYSTEM.git
    cd /Exersice2-Smart-Home-System/src
 
 2. Compile the project:

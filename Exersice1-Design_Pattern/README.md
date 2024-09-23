@@ -5,7 +5,6 @@ This project demonstrates various design patterns in Java, including behavioral,
 ## Table of Contents
 - [Design Patterns Implemented](#design-patterns-implemented)
 - [How to Run](#how-to-run)
-- 
 ## Design Patterns Implemented
 
 ### 1. Behavioral Patterns
